@@ -1,7 +1,7 @@
 # PyInstallerBuilder
  Browse for a Python script and build a stand-alone executable
 
-PyInstallerBuilder is a Python script that uses PyInstaller to build a standalone executable.
+PyInstallerBuilder is a Python script that uses PyInstaller to build a stand-alone executable.
 It allows the user to browse for a Python script, and then builds a single-file executable.
 The executable will be named the same as the Python script.
 
