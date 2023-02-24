@@ -4,8 +4,8 @@
 # Dependencies: PyInstaller, Python 3.6, tkinter
 # Author: Harold Mitts
 # Date: February 24, 2023
-# License: GPL
-# Website: https://github.com/Harold-Mitts/PyInstallerBuilderTkInter
+# License: GNU
+# Website: https://github.com/Harold-Mitts/PyInstallerBuilder
 
 version_num = "1.2"
 import os
