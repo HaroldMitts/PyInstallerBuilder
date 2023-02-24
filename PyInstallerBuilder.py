@@ -5,7 +5,7 @@
 # Author: Harold Mitts
 # Date: February 24, 2023
 # License: GNU
-# Website: https://github.com/Harold-Mitts/PyInstallerBuilder
+# Website: https://github.com/HaroldMitts/PyInstallerBuilder
 
 version_num = "1.2"
 import os
